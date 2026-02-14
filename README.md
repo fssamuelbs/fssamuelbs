@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou Fábio Samuel
 
-<!--
-**fssamuelbs/fssamuelbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software - UEPA  
+💻 Desenvolvedor Back-end  
+🚀 Focado em JavaScript e Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+
+- JavaScript
+- Python
+- BDScript
+- OpenStreetMap
+- Leaflet.js
+- Git & GitHub
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Clarinh Bot Discord** – Bot para gerenciamento e economia em servidor  
+🔹 **VerdeMap Carajás** – Plataforma com foco em soluções ambientais utilizando mapas interativos  
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Software
+- Estrutura de Dados
+- Desenvolvimento Back-end
+
+---
+
+## 📫 Contato
+
+📧 fssamuelbs@protonmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-s-oliveira-pereira-642270329/)

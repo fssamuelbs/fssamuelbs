@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Fábio Samuel
 
-🎓 Estudante de Engenharia de Software - UEPA  
+🎓 Estudante de Engenharia de Software - UEPA e Cîência da Dados
 💻 Desenvolvedor Back-end  
 🚀 Focado em JavaScript e Python  
 
@@ -29,6 +29,7 @@
 - Engenharia de Software
 - Estrutura de Dados
 - Desenvolvimento Back-end
+- Ciência de Dados
 
 ---
 

@@ -51,8 +51,10 @@
 
 
 ---
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=fssamuelbs&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fssamuelbs&theme=tokyo-night&hide_border=true" />
+</p>

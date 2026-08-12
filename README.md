@@ -1,39 +1,58 @@
-# 👋 Olá, eu sou Fábio Samuel
+<div align="center">
+  <h1>👋 Olá, eu sou Fábio Samuel</h1>
+  <p>
+    🎓 <b>Engenharia de Software (UEPA) & Ciência de Dados</b><br>
+    💻 <b>Desenvolvedor Back-end</b> focado em <b>Python</b> e <b>JavaScript</b>
+  </p>
 
-🎓 Estudante de Engenharia de Software - UEPA e Cîência da Dados
-💻 Desenvolvedor Back-end  
-🚀 Focado em JavaScript e Python  
-
----
-
-## 🛠 Tecnologias
-
-- JavaScript
-- Python
-- BDScript
-- OpenStreetMap
-- Leaflet.js
-- Git & GitHub
+  <p>
+    <a href="https://www.linkedin.com/in/f%C3%A1bio-s-oliveira-pereira-642270329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:fssamuelbs@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" /></a>
+  </p>
+</div>
 
 ---
 
-## 📌 Projetos em destaque
+### 🛠️ Tecnologias & Ferramentas
 
-🔹 **Clarinh Bot Discord** – Bot para gerenciamento e economia em servidor  
-🔹 **VerdeMap Carajás** – Plataforma com foco em soluções ambientais utilizando mapas interativos  
+<div align="center">
+
+  **Linguagens & Back-end**<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
+  <br><br>
+
+  **Geolocalização & Mapas**<br>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet.js" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+  <br><br>
+
+  **Controle de Versão & Ferramentas**<br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+</div>
 
 ---
 
-## 📚 Atualmente estudando
+### 📌 Projetos em Destaque
 
-- Engenharia de Software
-- Estrutura de Dados
-- Desenvolvimento Back-end
-- Ciência de Dados
+* 🤖 **Clarinh Bot Discord** — Bot focado em gerenciamento de comunidade, moderação e sistema de economia interativa.
+* 🗺️ **VerdeMap Carajás** — Plataforma web voltada para soluções ambientais com visualização de dados e mapas interativos via Leaflet.js e OpenStreetMap.
 
 ---
 
-## 📫 Contato
+### 📚 Em Foco no Momento
 
-📧 fssamuelbs@protonmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-s-oliveira-pereira-642270329/)
+* 🏛️ **Engenharia de Software & Estrutura de Dados**
+* 📊 **Ciência de Dados & Análise Estatística**
+
+
+---
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
